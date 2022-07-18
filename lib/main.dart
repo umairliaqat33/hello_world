@@ -17,7 +17,10 @@ class MyApp extends StatelessWidget {
         body: Container(
           color: Colors.amberAccent,
           child: Center(
-            child: Text("Hello world"),
+            child: Text(
+              "Hello world",
+              style: TextStyle(fontSize: 30, fontWeight: FontWeight.bold),
+            ),
           ),
         ),
       ),
