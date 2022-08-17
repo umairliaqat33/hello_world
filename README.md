@@ -6,7 +6,10 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 This is first project to practice and get started with flutter.
-This project have no special purpose or any special functionality
+This project have no special purpose or any special functionality.
+
+
+![](images/hello_world.png)
 
 A few resources to get you started if this is your first Flutter project:
 
