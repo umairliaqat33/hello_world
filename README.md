@@ -1,19 +1,13 @@
-# hello_world
+# to_do_app
+A new Flutter project. Which can help you to understand how a very simple hello world flutter app looks like. 
 
-A new Flutter project.
+### Use Cases
+In this app you can
+1. See hello world on a colored screen
 
-## Getting Started
+### Use Case and Description
 
-This project is a starting point for a Flutter application.
-This is first project to practice and get started with flutter.
-This project have no special purpose or any special functionality
+1. #### See hello world
+   You would be able to see a hello world written in the center of a screen on a colorful screen. There is no special functionality 
+or anything else to show in this app.
 
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
